@@ -7,6 +7,7 @@ class average{
               b = sc.nextInt();
               c = (a+b)/2;
               System.out.print("The average is: "+c);
+              System.out.println("Hehe code is working");
             }
      }
               
