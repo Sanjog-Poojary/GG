@@ -8,6 +8,7 @@ class average{
               c = (a+b)/2;
               System.out.print("The average is: "+c);
               System.out.println("Hehe code is working");
+                System.out.println("This is edited from git hub.");
             }
      }
               
